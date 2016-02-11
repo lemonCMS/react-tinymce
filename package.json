@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node_modules/.bin/rackt test --single-run --browsers Firefox",
     "start": "node_modules/.bin/rackt server",
-    "build": "babel src --out-dir lib",
+    "build": "babel src --out-dir lib"
   },
   "repository": {
     "type": "git",
